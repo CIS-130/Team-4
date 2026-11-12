@@ -58,7 +58,7 @@ h1{
     border-radius: 5px;
    
 }
-.menu:hover{
+.menu a:hover{
     background-color: #000354;
 }
 .menu a.active{
