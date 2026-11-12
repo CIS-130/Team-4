@@ -151,7 +151,7 @@ img {
     max-width: 100%;
     height: auto;
     margin: 1rem auto;
-    border: 2px solid var(--secondary-color);
+    border: 2pxpx solid var(--secondary-color);
     border-radius: 8px;
 }
 
