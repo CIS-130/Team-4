@@ -75,7 +75,7 @@ main{
 }
 
 .article-1{
-    background-color:rgb(252, 203, 140);
+    background-color:#FFF6EE;
     padding: 1rem;
     border-radius: 5px;
     border: 2px solid #000354;
@@ -84,12 +84,15 @@ main{
    
 }
 
-.card{
-    background-color: var(--primary-color);
+.card1{
+    background-color:#f79448;
     padding: 1rem;
     border-radius: 5px;
+    border-top: 2px;
+    border: 2px solid #000354;
     margin-bottom: 1rem;
     line-height: 1.5;
+  
    
 }
 
@@ -127,7 +130,7 @@ ol{
     color: #5ba5eb;
 
 }
-.sidebar{
+.sidebar1{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -164,11 +167,12 @@ footer{
         justify-content: center;
         gap: 2rem;
     }
-    .sidebar{
-        background-color: var(--primary-color);
+    .sidebar1{
+        background-color: #FFF6EE;
         padding: 1rem;
         border-radius: 5px;
         border: 2px solid #000354;
+        margin-top: 2px;
 
     
         
@@ -184,9 +188,9 @@ footer{
     --primary-hover: #D44500;
     --secondary-color: #000354;
     --text-navy: #000E54;
-    --page-bg: #F4F7FC;
+    --page-bg: #ffffff;
     --box-bg: #FFF6EE;
-    --border-subtle: #D0D9E8;
+    --border-subtle: #d0d9e9;
 }
 
 body {
